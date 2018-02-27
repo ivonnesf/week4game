@@ -1,0 +1,40 @@
+.crystal-image {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+  }
+  h1 {
+    color:yellow;
+    font-size: 50px;
+
+  }
+  #AddScore{
+    color: palevioletred;
+  }
+#number-to-guess{
+color: yellow;
+text-decoration: underline;
+}
+.pink {
+color: palevioletred;
+}
+#loseScore, #winScore {
+text-decoration: underline;
+font-weight: bold;
+}
+
+.yellow {
+color: yellow;
+}
+  body {
+    background-color: #2B2054;
+    margin: auto 0px;
+    text-align: center;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  }
+  .container {
+    
+    margin: auto 0px;
+    text-align: center;
+  }
