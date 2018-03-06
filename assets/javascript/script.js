@@ -34,7 +34,7 @@ $(document).ready(function () {
     var totalScore = 0;
     var random;
     var numberOptions;
-    var audio = new Audio("http://www.pacdv.com/sounds/mechanical_sound_effects/cling_1.wav");
+    var audio = new Audio("www.pacdv.com/sounds/mechanical_sound_effects/cling_1.wav");
     
 
     $('.crystal-image').click(function(e){
